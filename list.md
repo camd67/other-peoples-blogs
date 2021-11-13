@@ -1,0 +1,3 @@
+- https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/ tags:async,js,language
+- https://eta.st/2021/03/08/async-rust-2.html tags:async,rust
+- https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/ tags:names,general,advice
