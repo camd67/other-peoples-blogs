@@ -2,3 +2,4 @@
 - https://eta.st/2021/03/08/async-rust-2.html tags:async,rust
 - https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/ tags:names,general,advice
 - https://drewdevault.com/2021/11/16/Cash-for-leftpad.html tags:js,npm,comedy
+- https://chriskiehl.com/article/event-sourcing-is-hard tags:event sourcing
