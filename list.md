@@ -3,3 +3,5 @@
 - https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/ tags:names,general,advice
 - https://drewdevault.com/2021/11/16/Cash-for-leftpad.html tags:js,npm,comedy
 - https://chriskiehl.com/article/event-sourcing-is-hard tags:event sourcing
+- https://nadh.in/blog/open-source-is-not-broken/ tags:reaction,oss
+- https://christine.website/blog/open-source-broken-2021-12-11 tags:oss
