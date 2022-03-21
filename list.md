@@ -5,3 +5,4 @@
 - https://chriskiehl.com/article/event-sourcing-is-hard tags:event sourcing
 - https://nadh.in/blog/open-source-is-not-broken/ tags:reaction,oss
 - https://christine.website/blog/open-source-broken-2021-12-11 tags:oss
+- ghttps://gankra.github.io/blah/fix-rust-pointers/ tags:rust,pointers
