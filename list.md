@@ -9,3 +9,4 @@
 - https://ruudvanasseldonk.com/2022/03/20/please-put-units-in-names tags:types,time
 - https://blog.vamc19.dev/posts/dockerfile-copy-chmod/ tags:docker
 - https://www.wowsignal.io/articles/pdf tags:pdf,go
+- https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang tags:go,language
