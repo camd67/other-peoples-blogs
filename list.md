@@ -11,3 +11,4 @@
 - https://www.wowsignal.io/articles/pdf tags:pdf,go
 - https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang tags:go,language
 - https://www.morling.dev/blog/the-code-review-pyramid/ tags:codeReview
+- https://haydenjames.io/the-two-generals-problem/ tags:network,theory
