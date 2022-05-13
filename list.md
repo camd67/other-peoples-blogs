@@ -13,3 +13,4 @@
 - https://www.morling.dev/blog/the-code-review-pyramid/ tags:codeReview
 - https://haydenjames.io/the-two-generals-problem/ tags:network,theory
 - https://medium.com/@katelyngadd/why-i-quit-googles-webassembly-team-and-how-it-made-me-sick-c50ef562ce1 tags:burnout
+- https://earthly.dev/blog/line-staff/ tags:staff,career
