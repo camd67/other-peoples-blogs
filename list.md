@@ -15,3 +15,4 @@
 - https://medium.com/@katelyngadd/why-i-quit-googles-webassembly-team-and-how-it-made-me-sick-c50ef562ce1 tags:burnout
 - https://earthly.dev/blog/line-staff/ tags:staff,career
 - https://blog.shimin.io/the-zeigarnik-effect-and-todo-lists/ tags:productivity
+- https://kevincox.ca/2022/05/13/wrong-by-default/ tags:resources,language
