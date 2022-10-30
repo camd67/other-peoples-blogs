@@ -18,3 +18,4 @@
 - https://kevincox.ca/2022/05/13/wrong-by-default/ tags:resources,language
 - https://zwischenzugs.com/2022/08/08/who-should-write-the-terraform/ tags:sre,kubernetes,devops
 - https://world.hey.com/jorge/aging-programmer-d448bdec tags:work,mindset
+- https://blog.frankel.ch/structured-errors-http-apis/ tags:rfc,api,error
