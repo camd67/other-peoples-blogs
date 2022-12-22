@@ -20,3 +20,4 @@
 - https://world.hey.com/jorge/aging-programmer-d448bdec tags:work,mindset
 - https://blog.frankel.ch/structured-errors-http-apis/ tags:rfc,api,error
 - https://dusted.codes/the-type-system-is-a-programmers-best-friend tags:types
+- https://austinhenley.com/blog/challengingalgorithms.html tags:algorithms,practice
