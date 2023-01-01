@@ -21,3 +21,4 @@
 - https://blog.frankel.ch/structured-errors-http-apis/ tags:rfc,api,error
 - https://dusted.codes/the-type-system-is-a-programmers-best-friend tags:types
 - https://austinhenley.com/blog/challengingalgorithms.html tags:algorithms,practice
+- https://muffinman.io/blog/draw-svg-rope-using-javascript/ tags:svg
