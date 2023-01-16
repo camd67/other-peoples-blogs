@@ -24,3 +24,4 @@
 - https://muffinman.io/blog/draw-svg-rope-using-javascript/ tags:svg
 - https://www.16elt.com/2023/01/06/logging-practices-I-follow/ tags:logging
 - https://matt.blwt.io/post/corporate-legibility-for-engineers/ tags:softSkills,business
+- https://www.sqlite.org/fasterthanfs.html tags:sqlite,io
