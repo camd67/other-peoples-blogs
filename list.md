@@ -26,3 +26,4 @@
 - https://matt.blwt.io/post/corporate-legibility-for-engineers/ tags:softSkills,business
 - https://www.sqlite.org/fasterthanfs.html tags:sqlite,io
 - https://taylor.town/code-blocks tags:syntax,style
+- https://jtarchie.com/posts/2023-03-05 tags:configuration,language
