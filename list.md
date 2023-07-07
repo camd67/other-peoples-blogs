@@ -29,3 +29,4 @@
 - https://jtarchie.com/posts/2023-03-05 tags:configuration,language
 - https://fogknife.com/2021-07-07-ship-that-giraffe.html tags:language,types
 - https://farawaytimes.blogspot.com/2023/02/how-to-make-good-small-games.html tags:games,mindset
+- https://uselessdevblog.wordpress.com/2023/07/03/responding-to-are-bugs-and-slow-delivery-ok-the-blog-post-that-ive-hated-the-most-ever/ tags:software,business
