@@ -31,3 +31,4 @@
 - https://farawaytimes.blogspot.com/2023/02/how-to-make-good-small-games.html tags:games,mindset
 - https://uselessdevblog.wordpress.com/2023/07/03/responding-to-are-bugs-and-slow-delivery-ok-the-blog-post-that-ive-hated-the-most-ever/ tags:software,business
 - https://soatok.blog/2023/10/02/return-to-office-is-bullshit-and-everyone-knows-it/ tags:work,remote
+- https://tonsky.me/blog/unicode/ tags:unicode
