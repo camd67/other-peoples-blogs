@@ -32,3 +32,4 @@
 - https://uselessdevblog.wordpress.com/2023/07/03/responding-to-are-bugs-and-slow-delivery-ok-the-blog-post-that-ive-hated-the-most-ever/ tags:software,business
 - https://soatok.blog/2023/10/02/return-to-office-is-bullshit-and-everyone-knows-it/ tags:work,remote
 - https://tonsky.me/blog/unicode/ tags:unicode
+- https://jvns.ca/blog/2024/02/16/popular-git-config-options/ tags:git
