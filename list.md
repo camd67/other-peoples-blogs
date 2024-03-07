@@ -33,3 +33,4 @@
 - https://soatok.blog/2023/10/02/return-to-office-is-bullshit-and-everyone-knows-it/ tags:work,remote
 - https://tonsky.me/blog/unicode/ tags:unicode
 - https://jvns.ca/blog/2024/02/16/popular-git-config-options/ tags:git
+- https://ntietz.com/blog/the-most-important-goal-in-designing-software-is-understandability/ tags:complexity, design
