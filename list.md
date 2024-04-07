@@ -35,3 +35,4 @@
 - https://jvns.ca/blog/2024/02/16/popular-git-config-options/ tags:git
 - https://ntietz.com/blog/the-most-important-goal-in-designing-software-is-understandability/ tags:complexity, design
 - https://v5.chriskrycho.com/journal/epistemic-status/ tags:writing,blog,confidence
+- https://git-man-page-generator.lokaltog.net tags:comedy,git
