@@ -38,3 +38,4 @@
 - https://git-man-page-generator.lokaltog.net tags:comedy,git
 - https://matklad.github.io/2022/07/04/unit-and-integration-tests.html tags:testing
 - https://samwho.dev/load-balancing/ tags:loadBalancer,web
+- https://bessey.dev/blog/2024/05/24/why-im-over-graphql/ tags:graphql
