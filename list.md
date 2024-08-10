@@ -39,3 +39,4 @@
 - https://matklad.github.io/2022/07/04/unit-and-integration-tests.html tags:testing
 - https://samwho.dev/load-balancing/ tags:loadBalancer,web
 - https://bessey.dev/blog/2024/05/24/why-im-over-graphql/ tags:graphql
+- https://www.breck-mckye.com/blog/2023/05/Microfrontends-should-be-your-last-resort/ tags:frontend,microfrontend
