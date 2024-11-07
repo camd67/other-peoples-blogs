@@ -42,3 +42,4 @@
 - https://www.breck-mckye.com/blog/2023/05/Microfrontends-should-be-your-last-resort/ tags:frontend,microfrontend
 - https://yosoyfreeman.github.io/article/godot/tutorial/achieving-better-mouse-input-in-godot-4-the-perfect-camera-controller tags:godot,fpa,camera
 - https://softwaredoug.com/blog/2024/09/07/your-team-needs-juniors tags:hiring,junior
+- https://mikehadlow.blogspot.com/2012/05/configuration-complexity-clock.html tags:complexity
