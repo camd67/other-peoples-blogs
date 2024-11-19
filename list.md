@@ -43,3 +43,4 @@
 - https://yosoyfreeman.github.io/article/godot/tutorial/achieving-better-mouse-input-in-godot-4-the-perfect-camera-controller tags:godot,fpa,camera
 - https://softwaredoug.com/blog/2024/09/07/your-team-needs-juniors tags:hiring,junior
 - https://mikehadlow.blogspot.com/2012/05/configuration-complexity-clock.html tags:complexity
+- https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/ tags:concurrency,threads
