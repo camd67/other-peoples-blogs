@@ -45,3 +45,4 @@
 - https://mikehadlow.blogspot.com/2012/05/configuration-complexity-clock.html tags:complexity
 - https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/ tags:concurrency,threads
 - https://zdimension.fr/everyone-gets-bidirectional-bfs-wrong/ tags:bfs,algorithm
+- https://www.iankduncan.com/engineering/2026-02-06-bash-is-not-enough tags:build
